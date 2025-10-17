@@ -4,7 +4,7 @@ from groq import Groq
 import csv
 import json
 
-client = Groq(api_key="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")
+client = Groq(api_key="")
 MODEL_NAME = "meta-llama/llama-4-scout-17b-16e-instruct"
 
 SENTIMENTS = ["positive", "negative", "neutral"]

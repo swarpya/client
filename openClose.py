@@ -1,7 +1,7 @@
 import requests
 import csv
 
-API_KEY = "6FZG2WJGPNT6MO7O"
+API_KEY = ""
 ticker = "DNA"
 input_csv = "DNA_finnhub_with_sentiment_event.csv"
 output_csv = "DNA_news_with_prices.csv"
