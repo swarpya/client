@@ -2,8 +2,8 @@ import finnhub
 import csv
 from datetime import datetime, timedelta, timezone
 import time
-
-api_key = "d3ospphr01quo6o5qu4gd3ospphr01quo6o5qu50"
+#main
+api_key = ""
 symbol = "DNA"
 interval_days = 5
 

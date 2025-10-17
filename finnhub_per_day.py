@@ -2,7 +2,7 @@ import finnhub
 import csv
 from datetime import datetime, timezone
 
-api_key = "d3ospphr01quo6o5qu4gd3ospphr01quo6o5qu50"
+api_key = ""
 symbol = "AAPL"
 
 # Use today's date (UTC) as default
