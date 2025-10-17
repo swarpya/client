@@ -56,8 +56,8 @@ def fetch_google_news_with_story(query, num_results=10, news_date=None):
     return news_json_list
 
 # Example usage
-news_date = None  # or "2025-10-14"
-news_json_list = fetch_google_news_with_story("iPhone 17", num_results=20, news_date=news_date)
+news_date = "2025-01-01"  # or "2025-10-14"
+news_json_list = fetch_google_news_with_story("iPhone", num_results=20, news_date=news_date)
 
 with open("news_results.json", "w", encoding="utf-8") as f:
     json.dump(news_json_list, f, ensure_ascii=False, indent=4)
