@@ -1,0 +1,391 @@
+Datetime,Headline,Summary,URL,Source,Sentiment,EventType,Open,Close
+2025-01-09 13:00:00 UTC,Ginkgo Bioworks Announces Participation in the 43rd Annual J.P. Morgan Healthcare Conference,"Ginkgo Bioworks (NYSE: DNA), which is building the leading platform for cell programming and biosecurity, today announced that Co-Founder and CEO, Jason Kelly, is scheduled to present at the 43rd Annual J.P. Morgan Healthcare Conference on Thursday, January 16, 2025 at 10:30 a.m. PT (1:30 p.m. ET).",https://finnhub.io/api/news?id=cc410ae71c36acce436fa165f9af524b08812f98089e337e63c1ae0f465d1fd6,Yahoo,neutral,other,,
+2025-01-13 13:01:00 UTC,"Ginkgo Bioworks Partners with Universal Cells, an Astellas Company, to Advance Next-Generation iPSC-Derived Cell Therapies for Solid Tumors","Ginkgo Bioworks (NYSE: DNA), which is building the leading platform for cell programming and biosecurity, today announced a research collaboration with Universal Cells, an Astellas company, to optimize next-generation induced pluripotent stem cell (iPSC)-derived cancer cell therapies. This collaboration underscores Ginkgo's capacity to deploy high-throughput biological approaches to tackle the complex challenge set associated with development of therapies targeting solid tumors.",https://finnhub.io/api/news?id=9b2bc429c9feff50818cf8ca2e3bbb6974a8abca904107829fc63e3abe0baab2,Yahoo,positive,partnership,"Ticker
+DNA    9.34
+Name: 2025-01-13 00:00:00, dtype: float64","Ticker
+DNA    8.86
+Name: 2025-01-13 00:00:00, dtype: float64"
+2025-01-16 13:30:00 UTC,"Transcript : Ginkgo Bioworks Holdings, Inc. Presents at 43rd Annual J.P. Morgan Healthcare Conference 2025, Jan-16-2025 10",Presenter SpeechUnknown Analyst Good morning. Welcome to the 43rd Annual JPMorgan Healthcare Conference. My name is [indiscernible]. I'm an associate in the JPMorgan Healthcare Investment Banking...,https://finnhub.io/api/news?id=23bd3f7fb964717dce8fd11680e4886b8d09867ddc2bb2e51505fb425048e5ba,Finnhub,neutral,other,"Ticker
+DNA    9.3
+Name: 2025-01-16 00:00:00, dtype: float64","Ticker
+DNA    10.2
+Name: 2025-01-16 00:00:00, dtype: float64"
+2025-01-23 13:01:00 UTC,Ginkgo Automation to Deploy Flexible Laboratory Automation System for Cutting-Edge Biofuels and Bioproducts Research at Great Lakes Bioenergy Research Center (GLBRC),"Ginkgo Bioworks (NYSE: DNA), which is building the leading platform for cell programming and biosecurity, today announced that Ginkgo Automation will design and deploy a flexible, anaerobic-enabled laboratory automation system for the Great Lakes Bioenergy Research Center (GLBRC), a U.S. Department of Energy-funded Bioenergy Research Center at the University of Wisconsin–Madison. This new system is designed to support the diverse needs of multiple investigators and research teams simultaneously,",https://finnhub.io/api/news?id=bb37e48866a98b7318af77f78d5bd8cec92080fd9f58e052758b882882c4be0c,Yahoo,positive,partnership,"Ticker
+DNA    12.5
+Name: 2025-01-23 00:00:00, dtype: float64","Ticker
+DNA    13.18
+Name: 2025-01-23 00:00:00, dtype: float64"
+2025-01-30 01:21:00 UTC,Ginkgo Bioworks: Declining Core Revenue And High Cash Burn Echo Amyris' Path,"Ginkgo Bioworks faces ongoing revenue declines and high cash burn, despite cost-cutting efforts. Find out why I maintain a Sell rating for DNA stock.",https://finnhub.io/api/news?id=c30f27e3b618271383ab86b51bcf7cc691d6d729b3feebd131bf8e684f598f71,SeekingAlpha,negative,analyst_rating,"Ticker
+DNA    12.45
+Name: 2025-01-30 00:00:00, dtype: float64","Ticker
+DNA    13.91
+Name: 2025-01-30 00:00:00, dtype: float64"
+2025-01-29 17:00:10 UTC,Ginkgo Bioworks (DNA) Upgraded to Strong Buy: Here's What You Should Know,"Ginkgo Bioworks (DNA) might move higher on growing optimism about its earnings prospects, which is reflected by its upgrade to a Zacks Rank #1 (Strong Buy).",https://finnhub.io/api/news?id=6559b3cea93c1ef077c531f43bc29e978f6f570a3e1bea120e0ca13047097557,Yahoo,positive,analyst_rating,"Ticker
+DNA    12.27
+Name: 2025-01-29 00:00:00, dtype: float64","Ticker
+DNA    12.25
+Name: 2025-01-29 00:00:00, dtype: float64"
+2025-01-28 18:02:27 UTC,Ginkgo Bioworks Holdings (DNA) Price Target Increased by 14.63% to 9.59,,https://finnhub.io/api/news?id=58e02d21856c5e90d9692e68599f9db03e6bcfade4f7b87f808887ce98be96f5,Fintel,neutral,other,"Ticker
+DNA    11.96
+Name: 2025-01-28 00:00:00, dtype: float64","Ticker
+DNA    12.28
+Name: 2025-01-28 00:00:00, dtype: float64"
+2025-02-06 13:01:00 UTC,Ginkgo Bioworks to Host 6th Annual Ferment as Boston-based Conference Series,"Ginkgo Bioworks (NYSE: DNA), which is building the leading platform for cell programming and biosecurity, today announced the 2025 Ferment Series, an evolution of its flagship annual conference dedicated to advancing Ginkgo's mission of making biology easier to engineer. Throughout 2025, Ginkgo product teams will hold a series of focused Ferments at Ginkgo's beautiful event venue, located at 19 Fid Kennedy Ave in Boston's historic Seaport District, just a five-minute walk from Ginkgo's headquart",https://finnhub.io/api/news?id=cfaca9a9bffa48065841b375f28ad7b2736ad56d5330fc323aec00b3ada12403,Yahoo,positive,product_launch,"Ticker
+DNA    16.85
+Name: 2025-02-06 00:00:00, dtype: float64","Ticker
+DNA    13.68
+Name: 2025-02-06 00:00:00, dtype: float64"
+2025-02-18 13:00:00 UTC,Ginkgo Bioworks Announces Date of Fourth Quarter and Full Year 2024 Results Presentation,"Ginkgo Bioworks Holdings, Inc. (NYSE: DNA) (""Ginkgo""), which is building the leading platform for cell programming and biosecurity, today announced that it plans to host a presentation and Q&A session reviewing business performance for the fourth quarter and full year ended December 31, 2024, on Tuesday, February 25, 2025, beginning at 5:30 p.m. ET.",https://finnhub.io/api/news?id=904b72d19a5f385a99f8f8bb6e7f28c8e0eaa6f2ee7272c6e1d2b0dac20e7438,Yahoo,neutral,other,"Ticker
+DNA    15.29
+Name: 2025-02-18 00:00:00, dtype: float64","Ticker
+DNA    13.77
+Name: 2025-02-18 00:00:00, dtype: float64"
+2025-02-21 14:00:00 UTC,Ginkgo Bioworks integrates Callisto for difficult-to-automate NGS processes in their high-throughput lab,"Volta Labs, a leading genomics applications company, and Ginkgo Bioworks, (NYSE: DNA), which is building a leading platform for cell programming and biosecurity, today announced the integration of the Callisto™ Sample Prep System at Ginkgo Bioworks as part of the routine Illumina sequencing workflow.",https://finnhub.io/api/news?id=fb386e64bc77df468347e75f78a370356bce539487d1d5184e4419c6fa89c951,Yahoo,neutral,other,"Ticker
+DNA    11.7
+Name: 2025-02-21 00:00:00, dtype: float64","Ticker
+DNA    10.82
+Name: 2025-02-21 00:00:00, dtype: float64"
+2025-02-20 13:01:00 UTC,Ginkgo Bioworks Partners with HaDEA in Up to €24 Million Consortium Project to Deliver Next-Generation 'Agnostic Diagnostics' for Respiratory Viruses at the Point of Care,"Ginkgo Bioworks (NYSE: DNA), which is building the leading platform for cell programming and biosecurity, today announced a collaboration with the European Health and Digital Executive Agency (HaDEA) as contracting authority under a joint tender of up to €24 million. The funding is made available through the EU4Health programme, linked to the key priorities of the Health Emergency Preparedness and Response Authority (HERA) of the European Commission.",https://finnhub.io/api/news?id=09829b76a6239584e3b6301d03bc4e970b95957cf4da76b46212cd78f55709f9,Yahoo,positive,partnership,"Ticker
+DNA    12.5
+Name: 2025-02-20 00:00:00, dtype: float64","Ticker
+DNA    11.43
+Name: 2025-02-20 00:00:00, dtype: float64"
+2025-02-27 11:06:25 UTC,Ginkgo Bioworks Holdings Full Year 2024 Earnings: EPS Misses Expectations,Ginkgo Bioworks Holdings ( NYSE:DNA ) Full Year 2024 Results Key Financial Results Revenue: US$227.0m (down 9.7% from...,https://finnhub.io/api/news?id=fd331aee1d31a1dadb6b1fa61db5207f591768514103366f34d827fda8b86f2b,Yahoo,negative,earnings,"Ticker
+DNA    9.26
+Name: 2025-02-27 00:00:00, dtype: float64","Ticker
+DNA    8.64
+Name: 2025-02-27 00:00:00, dtype: float64"
+2025-02-27 10:29:49 UTC,Ginkgo Bioworks: Revenue Struggles Continue,"Ginkgo Bioworks falls short on Q4 revenue and projects weak 2025 guidance. Learn about DNA stock's valuation risks, cash reserves, and financial outlook.",https://finnhub.io/api/news?id=bdbf8bf224746fc88b2d5cd8ab25353e590872723b29258dc70aca206e8a8143,SeekingAlpha,negative,earnings,"Ticker
+DNA    9.26
+Name: 2025-02-27 00:00:00, dtype: float64","Ticker
+DNA    8.64
+Name: 2025-02-27 00:00:00, dtype: float64"
+2025-02-27 06:19:27 UTC,2025 Is Make Or Break For Ginkgo Bioworks,Ginkgo Bioworks' restructuring has resulted in a dramatic reduction in cash burn in recent quarters. Read why I think DNA stock is fully valued.,https://finnhub.io/api/news?id=4a2a3b2c311e411d5d541d3a86e606e8ded8353b23b0caa0e053518ae9f2784c,SeekingAlpha,neutral,other,"Ticker
+DNA    9.26
+Name: 2025-02-27 00:00:00, dtype: float64","Ticker
+DNA    8.64
+Name: 2025-02-27 00:00:00, dtype: float64"
+2025-02-25 22:00:00 UTC,Ginkgo Bioworks Reports Fourth Quarter and Full Year 2024 Financial Results,"Ginkgo Bioworks Holdings, Inc. (NYSE: DNA, ""Ginkgo""), which is building the leading platform for cell programming and biosecurity, today announced its results for the fourth quarter and year ended December 31, 2024. The update, including a webcast slide presentation with additional details on the fourth quarter and full year, as well as supplemental financial information will be available at investors.ginkgobioworks.com.",https://finnhub.io/api/news?id=f54cb27ef937a0ace9fbc562bb022b2b253e350799dc29adcab7c1de9a1b57b1,Yahoo,neutral,earnings,"Ticker
+DNA    10.4
+Name: 2025-02-25 00:00:00, dtype: float64","Ticker
+DNA    10.29
+Name: 2025-02-25 00:00:00, dtype: float64"
+2025-02-25 21:25:34 UTC,"Ginkgo Bioworks Holdings, Inc. 2024 Q4 - Results - Earnings Call Presentation","The following slide deck was published by Ginkgo Bioworks Holdings, Inc.",https://finnhub.io/api/news?id=0fd9d18b911a91cda4e3059b068a3ea0ed4140e0e70ac39fe742113eed01e7aa,SeekingAlpha,neutral,other,"Ticker
+DNA    10.4
+Name: 2025-02-25 00:00:00, dtype: float64","Ticker
+DNA    10.29
+Name: 2025-02-25 00:00:00, dtype: float64"
+2025-02-25 21:22:28 UTC,"Ginkgo Bioworks Holdings, Inc. (DNA) Q4 2024 Earnings Call Transcript","Ginkgo Bioworks Holdings, Inc. (NYSE:DNA) Q4 2024 Earnings Conference Call February 25, 2025 5:30 PM ETCompany ParticipantsJoseph Fridman - Director,...",https://finnhub.io/api/news?id=94f110ac71e6b5086f5aee2a6e81b8c9ee27c7028982c48ecfa806826ca03d34,SeekingAlpha,neutral,earnings,"Ticker
+DNA    10.4
+Name: 2025-02-25 00:00:00, dtype: float64","Ticker
+DNA    10.29
+Name: 2025-02-25 00:00:00, dtype: float64"
+2025-03-05 17:00:10 UTC,Ginkgo Bioworks (DNA) Upgraded to Buy: Here's Why,"Ginkgo Bioworks (DNA) has been upgraded to a Zacks Rank #2 (Buy), reflecting growing optimism about the company's earnings prospects. This might drive the stock higher in the near term.",https://finnhub.io/api/news?id=ccd9878816fc4f4107ae6c571c9f5d6aa2168724c983f8e30b305412a5ca43e1,Yahoo,neutral,other,"Ticker
+DNA    8.33
+Name: 2025-03-05 00:00:00, dtype: float64","Ticker
+DNA    8.26
+Name: 2025-03-05 00:00:00, dtype: float64"
+2025-03-14 13:35:05 UTC,"After Plunging -52.33% in 4 Weeks, Here's Why the Trend Might Reverse for Ginkgo Bioworks (DNA)","The heavy selling pressure might have exhausted for Ginkgo Bioworks (DNA) as it is technically in oversold territory now. In addition to this technical measure, strong agreement among Wall Street analysts in revising earnings estimates higher indicates that the stock is ripe for a trend reversal.",https://finnhub.io/api/news?id=8b83a08521d9c38b69d24a5358b62e16baba03205ac3c0eee5f161f9fe856626,Yahoo,neutral,other,"Ticker
+DNA    6.76
+Name: 2025-03-14 00:00:00, dtype: float64","Ticker
+DNA    6.97
+Name: 2025-03-14 00:00:00, dtype: float64"
+2025-04-01 13:35:06 UTC,Here's Why Ginkgo Bioworks (DNA) is Poised for a Turnaround After Losing -28.84% in 4 Weeks,"The heavy selling pressure might have exhausted for Ginkgo Bioworks (DNA) as it is technically in oversold territory now. In addition to this technical measure, strong agreement among Wall Street analysts in revising earnings estimates higher indicates that the stock is ripe for a trend reversal.",https://finnhub.io/api/news?id=7bdb1544c6d49eb6d55cb0d034da82f8889b6a349e9c98125a82ebd9ae29b995,Yahoo,positive,market_trend,"Ticker
+DNA    5.69
+Name: 2025-04-01 00:00:00, dtype: float64","Ticker
+DNA    5.66
+Name: 2025-04-01 00:00:00, dtype: float64"
+2025-04-10 13:55:14 UTC,Wall Street Analysts Think Ginkgo Bioworks (DNA) Could Surge 41.59%: Read This Before Placing a Bet,"The average of price targets set by Wall Street analysts indicates a potential upside of 41.6% in Ginkgo Bioworks (DNA). While the effectiveness of this highly sought-after metric is questionable, the positive trend in earnings estimate revisions might translate into an upside in the stock.",https://finnhub.io/api/news?id=4b8f11282870cc6af6b8a9981c17be8b16e32316ff588024262afd7c6d320b24,Yahoo,neutral,other,"Ticker
+DNA    6.525
+Name: 2025-04-10 00:00:00, dtype: float64","Ticker
+DNA    7.3
+Name: 2025-04-10 00:00:00, dtype: float64"
+2025-04-10 13:00:00 UTC,Ginkgo Bioworks Teams Up with Partners on ARPA-H Project to Stabilize Pharmaceutical Supply Chains - Using Amber Waves of Grain,"Ginkgo Bioworks (NYSE: DNA), which is building the leading platform for cell programming and biosecurity, today announced a new contract with the Advanced Research Projects Agency for Health (ARPA-H), alongside partners Tritica Biosciences, US Pharmacopeia (USP), On Demand Pharmaceuticals, and Isolere Bio by Donaldson. This two-year program, Wheat-based High efficiency Enzyme and API Technology (WHEAT), aims to establish a new manufacturing process for the distributed production of biologic and",https://finnhub.io/api/news?id=30491c891db68194418d9c40f16c82d476a1e62db1a1ae0dac04c6e8dca965c6,Yahoo,neutral,other,"Ticker
+DNA    6.525
+Name: 2025-04-10 00:00:00, dtype: float64","Ticker
+DNA    7.3
+Name: 2025-04-10 00:00:00, dtype: float64"
+2025-04-11 13:15:50 UTC,Buy Certara After The FDA Announcement,"Certaraâs AI strategy and FDA-aligned offerings fuel growth across drug discovery and trials, with expanding margins. Read why CERT is a buy.",https://finnhub.io/api/news?id=0b2c8901aa851b3641b252b5a9b58332599abbf998576cc9dbb028d98b6b1b00,SeekingAlpha,positive,market_trend,"Ticker
+DNA    7.5
+Name: 2025-04-11 00:00:00, dtype: float64","Ticker
+DNA    8.12
+Name: 2025-04-11 00:00:00, dtype: float64"
+2025-04-23 11:41:25 UTC,Ginkgo Bioworks - Ginko Automation Partners with Aura Genetics to Accelerate Direct-to-Consumer Testing and Innovation,"BOSTON - Ginkgo Bioworks , which is building the leading platform for cell programming and biosecurity, today announced that Ginkgo Automation will design and deploy a Reconfigurable Automation Cart ...",https://finnhub.io/api/news?id=cfec3f675e82db95c6457210d64d19aa492a2fa4d32acf251d85e8655dde3295,Finnhub,neutral,other,"Ticker
+DNA    8.05
+Name: 2025-04-23 00:00:00, dtype: float64","Ticker
+DNA    7.6
+Name: 2025-04-23 00:00:00, dtype: float64"
+2025-04-22 13:00:00 UTC,Ginko Automation Partners with Aura Genetics to Accelerate Direct-to-Consumer Testing and Innovation,"Ginkgo Bioworks (NYSE: DNA), which is building the leading platform for cell programming and biosecurity, today announced that Ginkgo Automation will design and deploy a Reconfigurable Automation Cart (RAC) system to Aura Genetics, a high-complexity diagnostic laboratory servicing the growing at-home testing and wellness market. This advanced modular laboratory automation platform will be deployed at Aura Genetics' new 22,000-square-foot high-throughput facility at the UPS Healthcare Labport, lo",https://finnhub.io/api/news?id=c9cdc69f15588593c58a9ad6cf839b68f63265fd9b19a72a3ada17e440441f55,Yahoo,positive,partnership,"Ticker
+DNA    7.47
+Name: 2025-04-22 00:00:00, dtype: float64","Ticker
+DNA    7.54
+Name: 2025-04-22 00:00:00, dtype: float64"
+2025-04-30 13:00:00 UTC,"Phytolon and Ginkgo Bioworks Boost Natural Food Colors by Hitting Full-Project Milestone, Nearly Tripling the Manufacturing Efficiency of Phytolon's Innovative Colors","Phytolon, a biotech-foodtech startup that offers natural food colors via fermentation of baker's yeast, and Ginkgo Bioworks (NYSE: DNA, ""Ginkgo""), which is building the leading platform for cell programming and biosecurity, today announced the successful completion of the second development milestone of their multi-product collaboration to produce natural food colors and the resulting distribution of an equity milestone to Ginkgo.",https://finnhub.io/api/news?id=6001a9f26228f6992de18c9bd2c171e307db475914a33b8e854e33eae3c6eb9f,Yahoo,neutral,other,"Ticker
+DNA    7.14
+Name: 2025-04-30 00:00:00, dtype: float64","Ticker
+DNA    7.37
+Name: 2025-04-30 00:00:00, dtype: float64"
+2025-04-29 20:00:00 UTC,Ginkgo Bioworks Announces Date of First Quarter 2025 Results Presentation,"Ginkgo Bioworks Holdings, Inc. (NYSE: DNA, ""Ginkgo""), which is building the leading platform for cell programming and biosecurity, today announced that it plans to host a presentation and Q&A session reviewing business performance for the first quarter ended March 31, 2025, on Tuesday, May 6, 2025, beginning at 5:30 p.m. ET.",https://finnhub.io/api/news?id=76db68fcd34739eabd7e83ed198bdfcb78a97797fe75e03e274d947d5c8a52b7,Yahoo,neutral,other,"Ticker
+DNA    8.03
+Name: 2025-04-29 00:00:00, dtype: float64","Ticker
+DNA    7.38
+Name: 2025-04-29 00:00:00, dtype: float64"
+2025-05-08 12:00:00 UTC,Twist Bioscience and Ginkgo Bioworks Revise Collaboration,"SOUTH SAN FRANCISCO, Calif. & BOSTON, May 08, 2025--Twist Bioscience Corporation (NASDAQ: TWST), a core mid-cap growth and value equity company in the life sciences segment of the health care sector, and Ginkgo Bioworks (NYSE: DNA), which is building the leading platform for cell programming and biosecurity, today announced that the companies have entered into an updated collaboration renegotiated from a prior contract signed in 2022.",https://finnhub.io/api/news?id=03222e73e5fcd8b86da8fb488b869701b5d13ae980ffdf4267cf3a51dca2a298,Yahoo,neutral,partnership,"Ticker
+DNA    7.49
+Name: 2025-05-08 00:00:00, dtype: float64","Ticker
+DNA    7.87
+Name: 2025-05-08 00:00:00, dtype: float64"
+2025-05-08 08:00:00 UTC,Twist Bioscience Corporation and Ginkgo Bioworks Revise Collaboration,Twist Bioscience Corporation and Ginkgo Bioworks announced that the companies have entered into an updated collaboration renegotiated from a prior contract signed in 2022. Ginkgo will receive...,https://finnhub.io/api/news?id=07fa2ff708659555023caf5b7059c729bdc88e930156031beda56715ad8f563a,Finnhub,neutral,partnership,"Ticker
+DNA    7.49
+Name: 2025-05-08 00:00:00, dtype: float64","Ticker
+DNA    7.87
+Name: 2025-05-08 00:00:00, dtype: float64"
+2025-05-06 21:19:04 UTC,"Ginkgo Bioworks Holdings, Inc. (DNA) Q1 2025 Earnings Call Transcript","Ginkgo Bioworks Holdings, Inc. (NYSE:DNA) Q1 2025 Results Conference Call May 6, 2025 5:00 PM ETCompany ParticipantsDaniel Marshall - Sr.",https://finnhub.io/api/news?id=f4d57b9dbe2bdd4042643e3e98f1441c79720adab53325a2cbf3feb1a968c41b,SeekingAlpha,neutral,earnings,"Ticker
+DNA    6.75
+Name: 2025-05-06 00:00:00, dtype: float64","Ticker
+DNA    6.45
+Name: 2025-05-06 00:00:00, dtype: float64"
+2025-05-06 21:00:00 UTC,Ginkgo Bioworks Reports First Quarter 2025 Financial Results,"Ginkgo Bioworks Holdings, Inc. (NYSE: DNA, ""Ginkgo""), which is building the leading platform for cell programming and biosecurity, today announced its results for the first quarter ended March 31, 2025. The update, including a webcast slide presentation with additional details on the first quarter, as well as supplemental financial information will be available at investors.ginkgobioworks.com.",https://finnhub.io/api/news?id=c221c0c13e0460aa9c81d2bee50b1845abb83f7ba066c04869d9442c32ed154c,Yahoo,neutral,earnings,"Ticker
+DNA    6.75
+Name: 2025-05-06 00:00:00, dtype: float64","Ticker
+DNA    6.45
+Name: 2025-05-06 00:00:00, dtype: float64"
+2025-05-19 12:03:18 UTC,"Ginkgo Bioworks Holdings, Inc. (NYSE:DNA) is a favorite amongst institutional investors who own 56%",Key Insights Institutions' substantial holdings in Ginkgo Bioworks Holdings implies that they have significant...,https://finnhub.io/api/news?id=056262ecf03451d9883f20082716f6c30224c0659ce1d76327c375eb74a69b38,Yahoo,neutral,other,"Ticker
+DNA    7.7
+Name: 2025-05-19 00:00:00, dtype: float64","Ticker
+DNA    8.09
+Name: 2025-05-19 00:00:00, dtype: float64"
+2025-05-22 17:51:21 UTC,Ginkgo Bioworks: Cost-Cutting Efforts Aren't Enough,"Ginkgo Bioworks faces challenging demand environment, with company's exposure to the U.S. government spending potential vulnerability. Read why DNA is a Hold.",https://finnhub.io/api/news?id=2277c1bb67fd8e5b3cabbabd23d4d1e45b6db600d07cdb6d92b848145411f7ce,SeekingAlpha,neutral,other,"Ticker
+DNA    7.32
+Name: 2025-05-22 00:00:00, dtype: float64","Ticker
+DNA    6.85
+Name: 2025-05-22 00:00:00, dtype: float64"
+2025-05-21 20:05:00 UTC,Ginkgo Bioworks Announces Appointment of Steven Coen as Chief Financial Officer,"Ginkgo Bioworks (NYSE: DNA, ""Ginkgo"" or the ""Company""), which is building the leading platform for cell programming and biosecurity, today announced that Mark Dmytruk, the Company's Chief Financial Officer, intends to resign from his role at the Company on May 30, 2025 to accept a position at another organization and Steven Coen, CPA, the Company's Chief Accounting Officer, will become Chief Financial Officer, effective upon Mr. Dmytruk's resignation.",https://finnhub.io/api/news?id=3bc93bf6985d4929e001aa2db2d19d56e82ee24b1b3439f6026172b31bc7dbb7,Yahoo,neutral,other,"Ticker
+DNA    7.86
+Name: 2025-05-21 00:00:00, dtype: float64","Ticker
+DNA    7.4
+Name: 2025-05-21 00:00:00, dtype: float64"
+2025-06-02 05:38:19 UTC,"Phytolon and Ginkgo Bioworks Boost Natural Food Colors by Hitting Full-Project Milestone, Nearly Tripling the Manufacturing Efficiency of Phytolon's Innovative Colors","YOKNE'AM ILLIT, Israel and BOSTON - Phytolon, a biotech-foodtech startup that offers natural food colors via fermentation of baker's yeast, and Ginkgo Bioworks , which is building the leading platform...",https://finnhub.io/api/news?id=96f6a4e3939f252ec7c00ca4f98e7677b3858b776733c779bb52f478f310f376,Finnhub,neutral,partnership,"Ticker
+DNA    6.97
+Name: 2025-06-02 00:00:00, dtype: float64","Ticker
+DNA    7.13
+Name: 2025-06-02 00:00:00, dtype: float64"
+2025-06-29 23:48:57 UTC,"Ginkgo Bioworks Holdings, Inc.(NYSE: DNA) added to Russell 2000 Growth Index","Ginkgo Bioworks Holdings, Inc. added to Russell 2000 Growth Index...",https://finnhub.io/api/news?id=99f9fc8cfc861cfc838efe5c44a2751b2e61f789d478a57ff76ce4f29d28e249,Finnhub,positive,other,,
+2025-06-29 23:07:28 UTC,"Ginkgo Bioworks Holdings, Inc.(NYSE: DNA) added to Russell 3000E Value Index","Ginkgo Bioworks Holdings, Inc. added to Russell 3000E Value Index...",https://finnhub.io/api/news?id=f9cacfe57dde8123d114df2dc0fcf7166e067543b440290a0274a155715304a4,Finnhub,positive,other,,
+2025-06-29 22:05:21 UTC,"Ginkgo Bioworks Holdings, Inc.(NYSE: DNA) added to Russell 2500 Index","Ginkgo Bioworks Holdings, Inc. added to Russell 2500 Index...",https://finnhub.io/api/news?id=134a9819bda179e2bc56244010b3702637768c2dc60bd149c982e19c9349e148,Finnhub,positive,other,,
+2025-06-25 22:15:04 UTC,"Ginkgo Bioworks Holdings, Inc. (DNA) Stock Moves 1.41%: What You Should Know","The latest trading day saw Ginkgo Bioworks Holdings, Inc. (DNA) settling at $9.32, representing a +1.41% change from its previous close.",https://finnhub.io/api/news?id=ff716a81d07e678c1ac7c94469932eec347d14f543f55d4c4913225916400d2f,Yahoo,neutral,other,"Ticker
+DNA    9.31
+Name: 2025-06-25 00:00:00, dtype: float64","Ticker
+DNA    9.32
+Name: 2025-06-25 00:00:00, dtype: float64"
+2025-07-02 12:05:00 UTC,The AI Arms Race Heats Up: June's Robotics And Automation Playbook,,https://finnhub.io/api/news?id=935df456b80f548964e1e35088cb52715244e2049e8f244a04a3aadbeaa3a824,SeekingAlpha,neutral,other,"Ticker
+DNA    11.36
+Name: 2025-07-02 00:00:00, dtype: float64","Ticker
+DNA    12.66
+Name: 2025-07-02 00:00:00, dtype: float64"
+2025-07-01 10:53:00 UTC,Ginkgo Bioworks (DNA) Soars 18.9%: Is Further Upside Left in the Stock?,Ginkgo Bioworks (DNA) witnessed a jump in share price last session on above-average trading volume. The latest trend in earnings estimate revisions for the stock doesn't suggest further strength down the road.,https://finnhub.io/api/news?id=b28b081f1e0709411cf664c2de56e3e9b095dd211098765cb6e70fb904645099,Yahoo,neutral,market_trend,"Ticker
+DNA    11.02
+Name: 2025-07-01 00:00:00, dtype: float64","Ticker
+DNA    11.36
+Name: 2025-07-01 00:00:00, dtype: float64"
+2025-06-30 16:36:40 UTC,"Ginkgo Bioworks Holdings, Inc.(NYSE: DNA) added to Russell 3000 Value Index","Ginkgo Bioworks Holdings, Inc. added to Russell 3000 Value Index...",https://finnhub.io/api/news?id=aface5e625c7bf2c696d1279f8eb82525d6bc9524314a7a4cdd9a61ae399a1b1,Finnhub,positive,other,"Ticker
+DNA    9.72
+Name: 2025-06-30 00:00:00, dtype: float64","Ticker
+DNA    11.25
+Name: 2025-06-30 00:00:00, dtype: float64"
+2025-06-30 15:17:09 UTC,"Ginkgo Bioworks Holdings, Inc.(NYSE: DNA) added to Russell 3000 Growth Index","Ginkgo Bioworks Holdings, Inc. added to Russell 3000 Growth Index...",https://finnhub.io/api/news?id=7f3ce01d228a56ff6458ab9558ef35b3f4b892b18d1521df282d9da0275d46c9,Finnhub,neutral,other,"Ticker
+DNA    9.72
+Name: 2025-06-30 00:00:00, dtype: float64","Ticker
+DNA    11.25
+Name: 2025-06-30 00:00:00, dtype: float64"
+2025-06-30 13:27:58 UTC,"Ginkgo Bioworks Holdings, Inc.(NYSE: DNA) added to Russell 2500 Value Index","Ginkgo Bioworks Holdings, Inc. added to Russell 2500 Value Index...",https://finnhub.io/api/news?id=4042f670b29147282ca1ae62e56a0d9d11268497191d1d9fe4be40f4cf6238f8,Finnhub,positive,other,"Ticker
+DNA    9.72
+Name: 2025-06-30 00:00:00, dtype: float64","Ticker
+DNA    11.25
+Name: 2025-06-30 00:00:00, dtype: float64"
+2025-06-30 12:42:37 UTC,"Ginkgo Bioworks Holdings, Inc.(NYSE: DNA) added to Russell 2000 Dynamic Index","Ginkgo Bioworks Holdings, Inc. added to Russell 2000 Dynamic Index...",https://finnhub.io/api/news?id=a5f7b54aa72b072b0e2d43bdf172efaeee29b8c3fac02a75a878826454a34aca,Finnhub,neutral,other,"Ticker
+DNA    9.72
+Name: 2025-06-30 00:00:00, dtype: float64","Ticker
+DNA    11.25
+Name: 2025-06-30 00:00:00, dtype: float64"
+2025-06-30 11:45:47 UTC,"Ginkgo Bioworks Holdings, Inc.(NYSE: DNA) added to Russell Small Cap Comp Growth Index","Ginkgo Bioworks Holdings, Inc. added to Russell Small Cap Comp Growth Index...",https://finnhub.io/api/news?id=0e6fa76a76ea669bd833bb1488195ea757295a7497ce37f417605820dad1709f,Finnhub,positive,other,"Ticker
+DNA    9.72
+Name: 2025-06-30 00:00:00, dtype: float64","Ticker
+DNA    11.25
+Name: 2025-06-30 00:00:00, dtype: float64"
+2025-06-30 10:27:30 UTC,"Ginkgo Bioworks Holdings, Inc.(NYSE: DNA) added to Russell 3000E Index","Ginkgo Bioworks Holdings, Inc. added to Russell 3000E Index...",https://finnhub.io/api/news?id=76164df8c256dd4518a0e38efd95f8c0fd1b94a0dc23ad47879861d644a86840,Finnhub,positive,other,"Ticker
+DNA    9.72
+Name: 2025-06-30 00:00:00, dtype: float64","Ticker
+DNA    11.25
+Name: 2025-06-30 00:00:00, dtype: float64"
+2025-06-30 09:57:00 UTC,"Ginkgo Bioworks Holdings, Inc.(NYSE: DNA) added to Russell Microcap Index","Ginkgo Bioworks Holdings, Inc. added to Russell Microcap Index...",https://finnhub.io/api/news?id=20849552584664a9cb1cde91eb10afb5231704cd989ff106fb44e16411a7eda3,Finnhub,positive,other,"Ticker
+DNA    9.72
+Name: 2025-06-30 00:00:00, dtype: float64","Ticker
+DNA    11.25
+Name: 2025-06-30 00:00:00, dtype: float64"
+2025-06-30 09:13:23 UTC,"Ginkgo Bioworks Holdings, Inc.(NYSE: DNA) added to Russell Small Cap Comp Value Index","Ginkgo Bioworks Holdings, Inc. added to Russell Small Cap Comp Value Index...",https://finnhub.io/api/news?id=3a63072df3b357795f537a8f3380bbff961069a56f662c88fb910c1fe6cd379f,Finnhub,positive,other,"Ticker
+DNA    9.72
+Name: 2025-06-30 00:00:00, dtype: float64","Ticker
+DNA    11.25
+Name: 2025-06-30 00:00:00, dtype: float64"
+2025-06-30 08:45:51 UTC,"Ginkgo Bioworks Holdings, Inc.(NYSE: DNA) added to Russell 3000 Index","Ginkgo Bioworks Holdings, Inc. added to Russell 3000 Index...",https://finnhub.io/api/news?id=5cb43bcd1db3e4ccd70dee945e332d997994dd220dd71486f198c0f5ba455422,Finnhub,positive,other,"Ticker
+DNA    9.72
+Name: 2025-06-30 00:00:00, dtype: float64","Ticker
+DNA    11.25
+Name: 2025-06-30 00:00:00, dtype: float64"
+2025-06-30 07:41:44 UTC,"Ginkgo Bioworks Holdings, Inc.(NYSE: DNA) added to Russell Microcap Growth Index","Ginkgo Bioworks Holdings, Inc. added to Russell Microcap Growth Index...",https://finnhub.io/api/news?id=056457592a205b97db1a793604d908bbf79e61d9eeb9fb352d86367ab9584fed,Finnhub,positive,other,"Ticker
+DNA    9.72
+Name: 2025-06-30 00:00:00, dtype: float64","Ticker
+DNA    11.25
+Name: 2025-06-30 00:00:00, dtype: float64"
+2025-06-30 06:47:46 UTC,"Ginkgo Bioworks Holdings, Inc.(NYSE: DNA) added to Russell 2500 Growth Index","Ginkgo Bioworks Holdings, Inc. added to Russell 2500 Growth Index...",https://finnhub.io/api/news?id=c66d43136f94919854ce2a9ac48261657236d737c0122528e10372a5a23057e0,Finnhub,neutral,other,"Ticker
+DNA    9.72
+Name: 2025-06-30 00:00:00, dtype: float64","Ticker
+DNA    11.25
+Name: 2025-06-30 00:00:00, dtype: float64"
+2025-06-30 05:57:57 UTC,"Ginkgo Bioworks Holdings, Inc.(NYSE: DNA) added to Russell Small Cap Completeness Index","Ginkgo Bioworks Holdings, Inc. added to Russell Small Cap Completeness Index...",https://finnhub.io/api/news?id=43b320cb2cd6c70b93c6a0e51e48a5ff845279fe79a180545e603299378d512d,Finnhub,neutral,other,"Ticker
+DNA    9.72
+Name: 2025-06-30 00:00:00, dtype: float64","Ticker
+DNA    11.25
+Name: 2025-06-30 00:00:00, dtype: float64"
+2025-06-30 05:37:10 UTC,"Ginkgo Bioworks Holdings, Inc.(NYSE: DNA) added to Russell 2000 Index","Ginkgo Bioworks Holdings, Inc. added to Russell 2000 Index...",https://finnhub.io/api/news?id=5d36f74765a449ac43bb47e16e45b50ff5a03cfed0ecb63f1e0049b325a6b156,Finnhub,positive,other,"Ticker
+DNA    9.72
+Name: 2025-06-30 00:00:00, dtype: float64","Ticker
+DNA    11.25
+Name: 2025-06-30 00:00:00, dtype: float64"
+2025-06-30 04:24:05 UTC,"Ginkgo Bioworks Holdings, Inc.(NYSE: DNA) added to Russell 3000E Growth Index","Ginkgo Bioworks Holdings, Inc. added to Russell 3000E Growth Index...",https://finnhub.io/api/news?id=33b37bd8c5b7c16c9387b4bf65e6782374504e1bbbedbf0591ea235db72cdc30,Finnhub,positive,other,"Ticker
+DNA    9.72
+Name: 2025-06-30 00:00:00, dtype: float64","Ticker
+DNA    11.25
+Name: 2025-06-30 00:00:00, dtype: float64"
+2025-06-30 03:22:23 UTC,"Ginkgo Bioworks Holdings, Inc.(NYSE: DNA) added to Russell 2000 Value Index","Ginkgo Bioworks Holdings, Inc. added to Russell 2000 Value Index...",https://finnhub.io/api/news?id=17bf2d0887a53adfffe9fdb55279ce642e54095640b2a601425d2531a28caadd,Finnhub,positive,other,"Ticker
+DNA    9.72
+Name: 2025-06-30 00:00:00, dtype: float64","Ticker
+DNA    11.25
+Name: 2025-06-30 00:00:00, dtype: float64"
+2025-06-30 02:36:00 UTC,"Ginkgo Bioworks Holdings, Inc.(NYSE: DNA) added to Russell Microcap Value Index","Ginkgo Bioworks Holdings, Inc. added to Russell Microcap Value Index...",https://finnhub.io/api/news?id=21ed22c8261f620f135375374086f78f4f851578ae5d3e2c550c99a4616e669e,Finnhub,neutral,other,"Ticker
+DNA    9.72
+Name: 2025-06-30 00:00:00, dtype: float64","Ticker
+DNA    11.25
+Name: 2025-06-30 00:00:00, dtype: float64"
+2025-07-10 22:15:04 UTC,"Ginkgo Bioworks Holdings, Inc. (DNA) Stock Sinks As Market Gains: Here's Why","In the closing of the recent trading day, Ginkgo Bioworks Holdings, Inc. (DNA) stood at $10.79, denoting a -2.53% move from the preceding trading day.",https://finnhub.io/api/news?id=3f974c3495f7c6982f03bec8684b686dcb9f06fb196af4140f86a634cb9d4af6,Yahoo,negative,market_trend,"Ticker
+DNA    11.09
+Name: 2025-07-10 00:00:00, dtype: float64","Ticker
+DNA    10.79
+Name: 2025-07-10 00:00:00, dtype: float64"
+2025-07-17 13:01:00 UTC,"Ginkgo Bioworks Launches ADME Profiling Service Using Lab Automation, Offering a US-based Operation That Will Match or Beat Pricing Quotes from Chinese or Other International Vendors","Ginkgo Bioworks (NYSE: DNA), which is building the leading platform for cell programming and biosecurity, today announced the launch of a powerful new capability at Ginkgo Datapoints: high-throughput, low-cost ADME (Absorption, Distribution, Metabolism, and Excretion) profiling, enabled by Ginkgo's proprietary RAC automation. This new service aims to beat or match the price of Chinese or other international vendors, with all work performed in the United States.",https://finnhub.io/api/news?id=5ccb0939ae05deb54aa0855d080a74ba2019bd365c4a9611bf1d16df41f109dd,Yahoo,neutral,other,"Ticker
+DNA    9.775
+Name: 2025-07-17 00:00:00, dtype: float64","Ticker
+DNA    9.76
+Name: 2025-07-17 00:00:00, dtype: float64"
+2025-07-16 22:15:04 UTC,"Ginkgo Bioworks Holdings, Inc. (DNA) Outperforms Broader Market: What You Need to Know","Ginkgo Bioworks Holdings, Inc. (DNA) concluded the recent trading session at $9.6, signifying a +1.8% move from its prior day's close.",https://finnhub.io/api/news?id=cc1d60df868699091f9d97ff70b784c3a6582883b272f0ee1f0c51e3eb6c8b9b,Yahoo,neutral,other,"Ticker
+DNA    9.68
+Name: 2025-07-16 00:00:00, dtype: float64","Ticker
+DNA    9.6
+Name: 2025-07-16 00:00:00, dtype: float64"
+2025-07-25 22:15:02 UTC,"Ginkgo Bioworks Holdings, Inc. (DNA) Stock Falls Amid Market Uptick: What Investors Need to Know","Ginkgo Bioworks Holdings, Inc. (DNA) concluded the recent trading session at $13.96, signifying a -6.31% move from its prior day's close.",https://finnhub.io/api/news?id=75c6656fbadf7a1df869794082f8c1970423e9814c6bd029158017fb068627ef,Yahoo,neutral,other,"Ticker
+DNA    15.06
+Name: 2025-07-25 00:00:00, dtype: float64","Ticker
+DNA    13.96
+Name: 2025-07-25 00:00:00, dtype: float64"
+2025-07-31 13:30:54 UTC,Ginkgo Bioworks awarded $4.66M contract by PNNL,"Ginkgo Bioworks (DNA) announced that the Environmental Molecular Sciences Laboratory, or EMSL, at Pacific Northwest National Laboratory, or PNNL, a leading U.S. Department of Energy Office of Science user facility, has selected Ginkgo Automation to deliver a state-of-the-art automated anaerobic phenotyping platform at its Richland, Washington campus. This purchase marks a significant step in EMSL’s mission to advance fundamental biological research supporting U.S. energy production, ensuring lea",https://finnhub.io/api/news?id=7d5a4bbfa832322b4865ac97b26862deafc2ccaf0ab118c6ae95cdac15e5538a,Yahoo,positive,partnership,"Ticker
+DNA    13.0
+Name: 2025-07-31 00:00:00, dtype: float64","Ticker
+DNA    13.14
+Name: 2025-07-31 00:00:00, dtype: float64"
+2025-07-31 12:01:00 UTC,Ginkgo Bioworks Announces Date of Second Quarter 2025 Results Presentation,"Ginkgo Bioworks Holdings, Inc. (NYSE: DNA, ""Ginkgo""), which is building the leading platform for cell programming and biosecurity, today announced that it plans to host a presentation and Q&A session reviewing business performance for the second quarter ended June 30, 2025, on Thursday, August 7, 2025, beginning at 5:30 p.m. ET.",https://finnhub.io/api/news?id=f2a2134c22331c70809d030f305ff233dbbc63f96a04afcf7e349223b9bb2370,Yahoo,neutral,other,"Ticker
+DNA    13.0
+Name: 2025-07-31 00:00:00, dtype: float64","Ticker
+DNA    13.14
+Name: 2025-07-31 00:00:00, dtype: float64"
+2025-07-30 13:01:00 UTC,Ginkgo to Deploy Modular Automation Technology to the Environmental Molecular Sciences Laboratory (EMSL) at Pacific Northwest National Labs (PNNL) to Accelerate Microbial Research for the Bioeconomy,"Ginkgo Bioworks (NYSE: DNA), which is building the leading platform for cell programming and biosecurity, today announced that the Environmental Molecular Sciences Laboratory (EMSL) at Pacific Northwest National Laboratory (PNNL), a leading U.S. Department of Energy Office of Science user facility, has selected Ginkgo Automation to deliver a state-of-the-art automated anaerobic phenotyping platform at its Richland, Washington campus. This purchase marks a significant step in EMSL's mission to ad",https://finnhub.io/api/news?id=463ac8a61ac6640575aef5cba2f18bb9347a4b31494c8bd3e4c30258e1d64384,Yahoo,positive,partnership,"Ticker
+DNA    13.03
+Name: 2025-07-30 00:00:00, dtype: float64","Ticker
+DNA    12.88
+Name: 2025-07-30 00:00:00, dtype: float64"
+2025-08-08 07:46:35 UTC,Ginkgo Bioworks Holdings Inc (DNA) Q2 2025 Earnings Call Highlights: Strategic Cost Management ...,"Ginkgo Bioworks Holdings Inc (DNA) reports significant cost savings and revenue growth in cell engineering, while navigating challenges in biosecurity and market conditions.",https://finnhub.io/api/news?id=b6d77534e69cd2aaf3d7bc4747d380478fc1b49608ccdd5826be5fa0aa894cf4,Yahoo,positive,earnings,"Ticker
+DNA    14.05
+Name: 2025-08-08 00:00:00, dtype: float64","Ticker
+DNA    12.29
+Name: 2025-08-08 00:00:00, dtype: float64"
+2025-08-08 03:20:12 UTC,"Ginkgo Bioworks Holdings, Inc. 2025 Q2 - Results - Earnings Call Presentation","The following slide deck was published by Ginkgo Bioworks Holdings, Inc.",https://finnhub.io/api/news?id=bd6c71976454bed555d2677cd63a0f43e56b9417875a3a35a8ab85523cf04b5f,SeekingAlpha,neutral,other,"Ticker
+DNA    14.05
+Name: 2025-08-08 00:00:00, dtype: float64","Ticker
+DNA    12.29
+Name: 2025-08-08 00:00:00, dtype: float64"
+2025-08-08 03:16:04 UTC,"Ginkgo Bioworks Holdings, Inc. (DNA) Q2 2025 Earnings Call Transcript","Ginkgo Bioworks Holdings, Inc. (NYSE:DNA) Q2 2025 Earnings Conference Call August 7, 2025 5:30 PM ETCompany ParticipantsDaniel Waid Marshall - Senior...",https://finnhub.io/api/news?id=bc9805a4271f96e201b41c199622751d5a54b5b66912e469170eeecab8613080,SeekingAlpha,neutral,other,"Ticker
+DNA    14.05
+Name: 2025-08-08 00:00:00, dtype: float64","Ticker
+DNA    12.29
+Name: 2025-08-08 00:00:00, dtype: float64"
+2025-08-07 21:01:00 UTC,Ginkgo Bioworks Reports Second Quarter 2025 Financial Results,"Ginkgo Bioworks Holdings, Inc. (NYSE: DNA, ""Ginkgo""), which is building the leading platform for cell programming and biosecurity, today announced its results for the second quarter ended June 30, 2025. The update, including a webcast slide presentation with additional details on the second quarter, as well as supplemental financial information will be available at investors.ginkgobioworks.com.",https://finnhub.io/api/news?id=1b0f7189901ffcf68bd55ecebd56345927977eecaffceb1b167c4af15d9f2304,Yahoo,neutral,other,"Ticker
+DNA    14.09
+Name: 2025-08-07 00:00:00, dtype: float64","Ticker
+DNA    13.46
+Name: 2025-08-07 00:00:00, dtype: float64"
+2025-08-13 13:30:02 UTC,"Ginkgo Bioworks Holdings, Inc. (DNA) Recently Broke Out Above the 50-Day Moving Average",Good things could be on the horizon when a stock surpasses the 50-Day simple moving average. How should investors react?,https://finnhub.io/api/news?id=573a04d46d57a1b1512b69ac4a9f0c5a32ae12ab6d50ee3bd3c70b6c7cd45b53,Yahoo,neutral,other,"Ticker
+DNA    11.64
+Name: 2025-08-13 00:00:00, dtype: float64","Ticker
+DNA    13.26
+Name: 2025-08-13 00:00:00, dtype: float64"
+2025-08-12 18:47:15 UTC,Ginkgo Bioworks Holdings Second Quarter 2025 Earnings: Beats Expectations,NYSE:DNA 1 Year Share Price vs Fair Value Explore Ginkgo Bioworks Holdings's Fair Values from the Community and select...,https://finnhub.io/api/news?id=cdca05199d2800ac8da28cc9de9586b035a4431e35dc7db752aa46bb1a6ed0f0,Yahoo,neutral,other,"Ticker
+DNA    12.04
+Name: 2025-08-12 00:00:00, dtype: float64","Ticker
+DNA    11.56
+Name: 2025-08-12 00:00:00, dtype: float64"
+2025-08-12 12:01:00 UTC,Ginkgo Automation Appoints Brian O'Sullivan as Head of Commercial to Accelerate External Growth,"Ginkgo Bioworks (NYSE: DNA), which is building the leading platform for cell programming and biosecurity, today announced the appointment of Brian O'Sullivan as Head of Commercial for Ginkgo Automation. Brian joins Ginkgo Automation from HighRes Biosolutions, where he led their commercial efforts.",https://finnhub.io/api/news?id=9b80d767699a8e4f6962025bba685b55ad25bdb9e5e9fff88a5efbbfd3dbb549,Yahoo,positive,management_change,"Ticker
+DNA    12.04
+Name: 2025-08-12 00:00:00, dtype: float64","Ticker
+DNA    11.56
+Name: 2025-08-12 00:00:00, dtype: float64"
+2025-08-11 05:51:09 UTC,Ginkgo Bioworks: Sell The Recent Rally,"Ginkgo Bioworks rallied on a Q2 beat but slashed guidance, posted large losses, and announced a $500M shelf amid cash burn. Find out why DNA stock is a sell.",https://finnhub.io/api/news?id=d00386c049cb115330b9108dfcf4ac20c21ecd3f1f63882c19433e11f68eb95b,SeekingAlpha,negative,earnings,"Ticker
+DNA    12.46
+Name: 2025-08-11 00:00:00, dtype: float64","Ticker
+DNA    11.89
+Name: 2025-08-11 00:00:00, dtype: float64"
+2025-08-10 13:39:22 UTC,"Ginkgo Bioworks Holdings, Inc. (NYSE:DNA) Released Earnings Last Week And Analysts Lifted Their Price Target To US$10.33","Ginkgo Bioworks Holdings, Inc. ( NYSE:DNA ) just released its latest quarterly results and things are looking bullish...",https://finnhub.io/api/news?id=ee896331eb16254b3d19139554fe0f34385b914aafdd48c8f04b031ddce3d8e5,Yahoo,positive,earnings,,
+2025-08-20 12:01:00 UTC,"Ginkgo Datapoints, Tangible Scientific, and Inductive Bio Partner to Deploy AI-driven Lab-in-the-loop Workflows Across the Biopharma Industry","Ginkgo Bioworks (NYSE: DNA), which is building the leading platform for cell programming and biosecurity, today announced that its Datapoints offering has entered into a new strategic partnership with Inductive Bio and Tangible Scientific to make AI-driven lab-in-the-loop drug discovery broadly accessible across the industry. The partnership aims to deliver capabilities that previously required massive platform investments by combining high-throughput experimental workflows, streamlined compound",https://finnhub.io/api/news?id=9529c1fe489088e44fea2ad234902c4e1a3cd51df4d6b98274be529b1e9371b4,Yahoo,neutral,other,"Ticker
+DNA    12.02
+Name: 2025-08-20 00:00:00, dtype: float64","Ticker
+DNA    11.59
+Name: 2025-08-20 00:00:00, dtype: float64"
+2025-09-02 06:06:20 UTC,Ginkgo Bioworks: Structural Cost Issues Will Be Difficult To Resolve,Ginkgo Bioworks' business continues to struggle in the face of a weak demand environment. Check out why I remain neutral to negative on DNA's prospects.,https://finnhub.io/api/news?id=0abd29aa340601af9b34807e1c7e5383f14c0ba5de9f3508e2f86135768a8179,SeekingAlpha,neutral,other,"Ticker
+DNA    12.085
+Name: 2025-09-02 00:00:00, dtype: float64","Ticker
+DNA    11.02
+Name: 2025-09-02 00:00:00, dtype: float64"
+2025-08-29 20:05:00 UTC,Ginkgo Bioworks Issues Notice of Settlement of Shareholder Derivative Actions,Ginkgo Bioworks (NYSE: DNA) today released the following notice:,https://finnhub.io/api/news?id=ee1ac071e5b27641f195d3115f349451a76a7ec160d8438d7efb17fea78beb8f,Yahoo,neutral,other,"Ticker
+DNA    12.13
+Name: 2025-08-29 00:00:00, dtype: float64","Ticker
+DNA    12.67
+Name: 2025-08-29 00:00:00, dtype: float64"
+2025-09-04 13:00:00 UTC,Ginkgo Datapoints and Apheris Launch Antibody Developability Consortium,"BOSTON, September 04, 2025--Ginkgo Bioworks announced a series of new initiatives to accelerate the application of artificial intelligence in biologics drug discovery.",https://finnhub.io/api/news?id=48225515bcc173df06aef08de3613082f3de02cf97739ff9bd127ab7519030db,Yahoo,positive,innovation,"Ticker
+DNA    11.33
+Name: 2025-09-04 00:00:00, dtype: float64","Ticker
+DNA    11.68
+Name: 2025-09-04 00:00:00, dtype: float64"
+2025-09-23 22:15:02 UTC,"Ginkgo Bioworks Holdings, Inc. (DNA) Advances While Market Declines: Some Information for Investors","The latest trading day saw Ginkgo Bioworks Holdings, Inc. (DNA) settling at $12.35, representing a +2.66% change from its previous close.",https://finnhub.io/api/news?id=5d943cac4eb80ef85b0a03accd2ea1a0883fe8e4707a4df7ac599f9b74e1680f,Yahoo,positive,market_trend,"Ticker
+DNA    12.24
+Name: 2025-09-23 00:00:00, dtype: float64","Ticker
+DNA    12.35
+Name: 2025-09-23 00:00:00, dtype: float64"
+2025-09-30 16:34:17 UTC,Ginkgo Bioworks Holdings Stock Scores RS Rating Upgrade,Ginkgo Bioworks Holdings stock had its Relative Strength (RS) Rating upgraded from 88 to 92 Tuesday.  Is Ginkgo Bioworks Holdings Stock A Buy?  Ginkgo Bioworks Holdings stock recently retook its 50-day moving line and is trying to complete a cup without handle with a 15.48 buy point.,https://finnhub.io/api/news?id=ef7eb7acb6df0789f782d5d883db50d88c32832641ae3571d137389ceb7c79ed,Yahoo,neutral,other,"Ticker
+DNA    13.03
+Name: 2025-09-30 00:00:00, dtype: float64","Ticker
+DNA    14.58
+Name: 2025-09-30 00:00:00, dtype: float64"
+2025-10-03 22:15:03 UTC,"Ginkgo Bioworks Holdings, Inc. (DNA) Outpaces Stock Market Gains: What You Should Know","Ginkgo Bioworks Holdings, Inc. (DNA) concluded the recent trading session at $16.14, signifying a +1.06% move from its prior day's close.",https://finnhub.io/api/news?id=9bad2bc1cb8f051e3b8ab361318d3ed9beb140e2b83c53387a42760337790c26,Yahoo,neutral,other,"Ticker
+DNA    16.200001
+Name: 2025-10-03 00:00:00, dtype: float64","Ticker
+DNA    16.139999
+Name: 2025-10-03 00:00:00, dtype: float64"
+2025-10-10 06:10:50 UTC,Looking at the Narrative for Ginkgo Bioworks After Recent Analyst and Strategy Updates,"Ginkgo Bioworks Holdings has seen its consensus analyst price target rise from $11.33 per share to $12.00 per share. This reflects a modest but noteworthy vote of confidence from the market. The upward revision comes amid shifting expectations following recent performance updates, as analysts weigh the company’s progress against lingering uncertainties. Read on to find out how you can stay ahead of ongoing changes in the stock’s evolving narrative. What Wall Street Has Been Saying Following...",https://finnhub.io/api/news?id=24032c09f878316b6b2a0803aefdd7280daade56ff860ff7764a2c6f43c8b702,Yahoo,neutral,other,"Ticker
+DNA    15.37
+Name: 2025-10-10 00:00:00, dtype: float64","Ticker
+DNA    13.52
+Name: 2025-10-10 00:00:00, dtype: float64"
+2025-10-09 22:15:02 UTC,"Ginkgo Bioworks Holdings, Inc. (DNA) Registers a Bigger Fall Than the Market: Important Facts to Note","Ginkgo Bioworks Holdings, Inc. (DNA) reached $15.24 at the closing of the latest trading day, reflecting a -5.28% change compared to its last close.",https://finnhub.io/api/news?id=7c3e8733c747596236eea56e9d956ba139e30e69323ebcae7590c077e061974a,Yahoo,negative,market_trend,"Ticker
+DNA    16.08
+Name: 2025-10-09 00:00:00, dtype: float64","Ticker
+DNA    15.24
+Name: 2025-10-09 00:00:00, dtype: float64"

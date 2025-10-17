@@ -1,0 +1,317 @@
+[
+  {
+    "Datetime": "2025-10-16 15:40:30 UTC",
+    "Headline": "China\u2019s Wentao blames US actions for trade tensions",
+    "Summary": "Investing.com -- China\u2019s Commerce Minister Wang Wentao met with Apple CEO Tim Cook on Thursday and blamed \"intensive U.S. restrictive measures\" for recent tensions in China-U.S. trade relations.",
+    "URL": "https://finnhub.io/api/news?id=a14b719fb86e1cb63132beab35d5a1529d4c53f6a3987f2853e0c63929ead2e1",
+    "Source": "Yahoo",
+    "Sentiment": "neutral",
+    "EventType": "other"
+  },
+  {
+    "Datetime": "2025-10-16 15:33:26 UTC",
+    "Headline": "Apple is reportedly making robots. Here\u2019s what you need to know",
+    "Summary": "Investing.com -- Apple is reportedly preparing to enter the robotics market, a move that Morgan Stanley says could mark \u201cone small step on your desk. One giant leap for AI.\u201d",
+    "URL": "https://finnhub.io/api/news?id=b187cfd25dd2c5c717063df9350c487e4b9576c32c4b0f15cf50f78aac6f2dbe",
+    "Source": "Yahoo",
+    "Sentiment": "neutral",
+    "EventType": "other"
+  },
+  {
+    "Datetime": "2025-10-16 15:21:03 UTC",
+    "Headline": "Apple loses another AI exec to Meta",
+    "Summary": "Yang\u2019s departure marks the latest in a string of exits from Apple\u2019s AI unit, putting the company into jeopardy in the lead up to a much-anticipated Siri revamp scheduled for March.",
+    "URL": "https://finnhub.io/api/news?id=ae711baa95b000d70d183924c1a76008f1e6baea907b34f7dc06b0293de8a944",
+    "Source": "Yahoo",
+    "Sentiment": "negative",
+    "EventType": "management_change"
+  },
+  {
+    "Datetime": "2025-10-16 14:35:03 UTC",
+    "Headline": "Nearly 40% jump in net profit: Chipmaker TSMC capitalises on AI boom",
+    "Summary": "Taiwan Semiconductor Manufacturing Corp., the world\u2019s biggest semiconductor manufacturer, reported an unexpected jump in its net profit for the July-September quarter.View on euronews",
+    "URL": "https://finnhub.io/api/news?id=9dc799e9ff88213ce7d0929179ce15791e22277a8977f57e1c969da2d054e9e3",
+    "Source": "Yahoo",
+    "Sentiment": "neutral",
+    "EventType": "other"
+  },
+  {
+    "Datetime": "2025-10-16 14:00:00 UTC",
+    "Headline": "Is Apple's Growth Story Over? Here's What History Says.",
+    "Summary": "Don't count this tech juggernaut out too fast.",
+    "URL": "https://finnhub.io/api/news?id=2e9491d041e16147202e3e6290cffa8e25b3a2431b4cbf5b65f2b2e8022bce4c",
+    "Source": "Yahoo",
+    "Sentiment": "positive",
+    "EventType": "other"
+  },
+  {
+    "Datetime": "2025-10-16 13:39:23 UTC",
+    "Headline": "Chip stocks rise after TSMC's rosy outlook on strong AI demand",
+    "Summary": "(Reuters) -Semiconductor stocks advanced on Thursday after top contract chipmaker TSMC (TSM) issued a rosy forecast, fanning optimism about demand for artificial intelligence infrastructure in a week of multi-billion-dollar deals across the sector.",
+    "URL": "https://finnhub.io/api/news?id=4f147322506e4ac8fb2969fa95d607600b25a3c2faf9d47287619c7c9bbb1ae7",
+    "Source": "Yahoo",
+    "Sentiment": "neutral",
+    "EventType": "other"
+  },
+  {
+    "Datetime": "2025-10-16 13:34:58 UTC",
+    "Headline": "Stock market today: Dow, S&P 500, Nasdaq rise as TSMC's stellar earnings eclipse trade-war jitters",
+    "Summary": "Investors weighed corporate earnings against the escalating US-China trade war.",
+    "URL": "https://finnhub.io/api/news?id=308cdd2b7bf8ad07b2bce4bd029bbc5d3a6b8b4a5ea7ad161eeb16af65a83c95",
+    "Source": "Yahoo",
+    "Sentiment": "neutral",
+    "EventType": "earnings"
+  },
+  {
+    "Datetime": "2025-10-16 13:30:12 UTC",
+    "Headline": "Alphabet: The AI Leader OpenAI Is Still Chasing (But Will Never Catch)",
+    "Summary": "Discover why Google leads global AI innovation, dominates cloud infrastructure, and is undervalued in the market. Click here to read my most recent analysis.",
+    "URL": "https://finnhub.io/api/news?id=9ba5ab9ff1d6ed1464b2c8c3cc1ddc7ee5c692f225f68850a5a441f1d216d1e1",
+    "Source": "SeekingAlpha",
+    "Sentiment": "neutral",
+    "EventType": "other"
+  },
+  {
+    "Datetime": "2025-10-16 13:11:34 UTC",
+    "Headline": "Microsoft's latest Windows 11 update puts AI at the center of your PC",
+    "Summary": "Microsoft is bringing a host of AI updates to its Windows 11 operating system.",
+    "URL": "https://finnhub.io/api/news?id=98f042f0bdb0fce85404225148b8119eea20d63de5f0c0fa6bf78c5954c45cf3",
+    "Source": "Yahoo",
+    "Sentiment": "positive",
+    "EventType": "innovation"
+  },
+  {
+    "Datetime": "2025-10-16 13:11:34 UTC",
+    "Headline": "Microsoft's latest operating system aims to make all Windows 11 machines AI PCs",
+    "Summary": "Microsoft is bringing a host of AI updates to its Windows 11 operating system.",
+    "URL": "https://finnhub.io/api/news?id=2cdbc7e1c96e7ba512e5b7c9e1d11cb60bd79d7fa5f9da0c2297a30c6166bc5d",
+    "Source": "Yahoo",
+    "Sentiment": "neutral",
+    "EventType": "other"
+  },
+  {
+    "Datetime": "2025-10-16 12:55:46 UTC",
+    "Headline": "Analyst Says Apple (AAPL) Foldable Phone Won\u2019t \u2018Move The Needle\u2019",
+    "Summary": "We recently published Top 10 Trending Stock Ratings and Calls as Tom Lee Says Latest Selloff is a Buying Opportunity. Apple Inc (NASDAQ:AAPL) is one of the top trending stock ratings and calls. Edison Lee, Jefferies analyst, said in a latest program on CNBC that Apple\u2019s (NASDAQ:AAPL) much-awaited foldable phone would not be enough for [\u2026]",
+    "URL": "https://finnhub.io/api/news?id=ca399000bfcc6d5230c709474c627e7a7ba293f57a04e22e32a8ca29d106ee68",
+    "Source": "Yahoo",
+    "Sentiment": "neutral",
+    "EventType": "other"
+  },
+  {
+    "Datetime": "2025-10-16 12:28:19 UTC",
+    "Headline": "Apple Launches M5 Macs And Vision Pro",
+    "Summary": "MacBook Pro hits 24 hours battery life max",
+    "URL": "https://finnhub.io/api/news?id=dee0dcb74a412f4ed6e92a6a07329fd29fe4cff044ed917a4f6b6ef23f4a2871",
+    "Source": "Yahoo",
+    "Sentiment": "positive",
+    "EventType": "product_launch"
+  },
+  {
+    "Datetime": "2025-10-16 12:20:29 UTC",
+    "Headline": "Mortgage demand unlikely to rise this year amid low interest rate cut expectations",
+    "Summary": "UK lenders don't expect demand for new mortgages to rise this year, according to a Bank of England survey.",
+    "URL": "https://finnhub.io/api/news?id=b2ca57657f847418fc7f2c8402f60610b4372b698fd7d1816d579cfcab078583",
+    "Source": "Yahoo",
+    "Sentiment": "negative",
+    "EventType": "market_trend"
+  },
+  {
+    "Datetime": "2025-10-16 12:05:05 UTC",
+    "Headline": "Salesforce, chips and a +2,800% stock:  Trending Tickers",
+    "Summary": "Salesforce (CRM) rises on a bold $60 billion revenue target. Chipmakers (NVDA, TSM, AMD, AVGO, ASML) are in the green as the world's demand for computing power keeps growing. Chinese electric car maker NIO sees shares spiral in connection with a lawsuit. And today's speculative stocks to watch include Critical Metals (CRML), Bitdeer (BTDR) and Microvast (MVST). For more live coverage of markets watch the full episode of Market Sunrise and head to Yahoo Finance.",
+    "URL": "https://finnhub.io/api/news?id=fc16bd3889a6f8b33d1f3945a793f6867bd6484bb5c5477a029456256ad1e65f",
+    "Source": "Yahoo",
+    "Sentiment": "neutral",
+    "EventType": "other"
+  },
+  {
+    "Datetime": "2025-10-16 12:00:00 UTC",
+    "Headline": "TSMC Earnings Beat Estimates. What That Says About an AI Bubble.",
+    "Summary": "Taiwan Semiconductor Manufacturing reported a record quarterly net profit that handily beat expectations.",
+    "URL": "https://finnhub.io/api/news?id=586e7e9b9d3dd5161ed200d4eb91820ad370051d996d3612132c74c5b6363545",
+    "Source": "Yahoo",
+    "Sentiment": "neutral",
+    "EventType": "other"
+  },
+  {
+    "Datetime": "2025-10-16 11:01:25 UTC",
+    "Headline": "Global CEOs Meet Chinese Trade Negotiator as Tensions Linger",
+    "Summary": "Global CEOs including Apple Inc.\u2019s Tim Cook on Thursday met top trade Chinese negotiator He Lifeng in Beijing, a gathering that coincided with an uptick in trade tensions between China and the US.  The business executives are part of an advisory board for Tsinghua University\u2019s School of Economics and Management that typically gathers every year and Cook is the chair of that committee.",
+    "URL": "https://finnhub.io/api/news?id=8f928de517d4647ddab9831dc8cca5a9aa71008621c5edcc060bd42abad564bc",
+    "Source": "Yahoo",
+    "Sentiment": "neutral",
+    "EventType": "other"
+  },
+  {
+    "Datetime": "2025-10-16 10:48:21 UTC",
+    "Headline": "TSMC profits blow past market forecast thanks to AI boom",
+    "Summary": "STORY: :: TSMCChip giant TSMC posted a record-breaking third-quarter profit Thursday, up 39.1%, smashing market expectations.But looming U.S. tariffs could cloud its outlook.Riding the AI boom, the company reported a net profit of nearly $15 billion, marking its sixth straight quarter of double-digit growth.:: FileDemand from major players like Apple and Nvidia continues to boost its bottom line.The Taiwan firm says AI demand is still strengthening, and is higher now than it had expected only three months ago.\u00a0That follows similarly robust outlooks from other major tech players, including South Korea's Samsung and European chip gear leader ASML - a big supplier to TSMC.\u00a0Despite the strong results, uncertainty looms.U.S. tariffs imposed by Donald Trump's administration weigh on the outlook.:: TSMCStill, TSMC is pushing ahead with a $100 billion U.S. expansion.That's on top of $65 billion already pledged for three plants in Arizona, one already operational.:: File\u00a0TSMC shares are up 38% this year, outpacing Taiwan\u2019s broader market as investors so far shrug off the tariff risks.",
+    "URL": "https://finnhub.io/api/news?id=5d7e10fbaa4846713528e058fbefcf644691101fce34fe719ef5d86e2323fecc",
+    "Source": "Yahoo",
+    "Sentiment": "neutral",
+    "EventType": "other"
+  },
+  {
+    "Datetime": "2025-10-16 09:56:06 UTC",
+    "Headline": "From back office to frontline: Unlocking AI\u2019s revenue potential in banking",
+    "Summary": "While cost-cutting is important, banks are overlooking AI\u2019s biggest opportunity: fuelling growth through hyper-personalisation, predictive analytics, and dynamic pricing, all while staying on the right side of compliance, explains Radi El Haj",
+    "URL": "https://finnhub.io/api/news?id=ed575f30d2379f0fd6783d65ea0e8e2ca8b59e59d0360b09269202b24344be8c",
+    "Source": "Yahoo",
+    "Sentiment": "neutral",
+    "EventType": "other"
+  },
+  {
+    "Datetime": "2025-10-16 09:46:07 UTC",
+    "Headline": "Nancy Pelosi And Warren Buffett Are Betting On The Same 4 Stocks\u2014Here's What They Know",
+    "Summary": "Disclosures from former Speaker of the House Nancy Pelosi (D-Calif.) and Berkshire Hathaway Inc (NYSE:BRK) (NYSE:BRK) CEO Warren Buffett are among the most-watched filings throughout the year for analysts, investors and retail traders. While it may be ...",
+    "URL": "https://finnhub.io/api/news?id=a27310722cfacf1748f1259c5fe0c5eb763fb864a993d4fe36b92e80e7a702b3",
+    "Source": "Yahoo",
+    "Sentiment": "neutral",
+    "EventType": "other"
+  },
+  {
+    "Datetime": "2025-10-16 09:45:00 UTC",
+    "Headline": "Have $500? 2 Absurdly Cheap Stocks Long-Term Investors Should Buy Right Now",
+    "Summary": "These stocks' low valuations may come as a surprise to investors.",
+    "URL": "https://finnhub.io/api/news?id=0c09f754ca60cf80512949dff0588593f9095dd67de73aa19629d10c14b21831",
+    "Source": "Yahoo",
+    "Sentiment": "neutral",
+    "EventType": "other"
+  },
+  {
+    "Datetime": "2025-10-16 08:53:51 UTC",
+    "Headline": "Some European, U.S. chip stocks gain after TSMC posts third-quarter income spike",
+    "Summary": "Investing.com - Some European and U.S. chip equipment stocks ticked up on Thursday after Taiwan Semiconductor Manufacturing Co. clocked a record third-quarter profit, powered by soaring demand for artificial intelligence infrastructure.",
+    "URL": "https://finnhub.io/api/news?id=881d1cb394e5af4028b1283e1d206bc8d51a5c8f12d391d90cc91da994c335e1",
+    "Source": "Yahoo",
+    "Sentiment": "neutral",
+    "EventType": "other"
+  },
+  {
+    "Datetime": "2025-10-16 08:48:16 UTC",
+    "Headline": "Oil prices rise as Trump says India will stop buying Russian crude",
+    "Summary": "Oil rose from a five-month low after the US president said Modi had vowed to halt purchases of Russian barrels.",
+    "URL": "https://finnhub.io/api/news?id=5152181b86c3ccfdb15b5c3311f77b6b993158c4d38c8f7b825f1d8a106f1c2b",
+    "Source": "Yahoo",
+    "Sentiment": "positive",
+    "EventType": "market_trend"
+  },
+  {
+    "Datetime": "2025-10-16 08:29:41 UTC",
+    "Headline": "TSMC Raises Outlook in Vote of Confidence for AI \u2018Megatrend\u2019",
+    "Summary": "TSMC, the go-to chipmaker for Apple Inc. and \u00a0Nvidia Corp., now foresees mid-30% growth in annual sales, up about a few percentage points from previously.  The outlook hike was striking given Taiwan\u2019s biggest company last raised its guidance just three months ago, igniting a rally that\u2019s tacked on more than $260 billion to its market value.  The results underscore how TSMC remains one of the bigger beneficiaries of a spending spree on AI infrastructure that\u2019s expected to cross the $1 trillion mark in coming years.",
+    "URL": "https://finnhub.io/api/news?id=004b42c6870e443a3dffc41fa9106fdbb37ab61ec79b714ac5384a2eb675176c",
+    "Source": "Yahoo",
+    "Sentiment": "neutral",
+    "EventType": "other"
+  },
+  {
+    "Datetime": "2025-10-16 08:09:55 UTC",
+    "Headline": "TSMC Hikes Sales Outlook Amid AI Boom",
+    "Summary": "Taiwan Semiconductor Manufacturing Co.\u00a0hiked its projection for 2025 revenue growth to the mid-30% range. The company also raised the lower end of its capital spending target for the year after reporting a better-than-anticipated\u00a039% jump in profit in the September quarter. TSMC is the go-to chipmaker for\u00a0Apple Inc.\u00a0and most of the world's biggest semiconductor designers. The results show Taiwan's largest company remains one of the bigger beneficiaries of a spending spree on AI infrastructure. Bloomberg Intelligence's Matthew Bloxham breaks down the numbers.",
+    "URL": "https://finnhub.io/api/news?id=4d30d1c4bfdab8605a00330997984b4f38b25832d5932d1894b703102f73c9cb",
+    "Source": "Yahoo",
+    "Sentiment": "neutral",
+    "EventType": "other"
+  },
+  {
+    "Datetime": "2025-10-16 08:00:00 UTC",
+    "Headline": "Microsoft vs. Apple: What's the Better Artificial Intelligence (AI) Stock to Buy Today?",
+    "Summary": "Microsoft's Copilot is already helping generate billions in revenue, while Apple is in the midst of enhancing its iPhones with new AI features.",
+    "URL": "https://finnhub.io/api/news?id=8eef9fd49444fac5e59370530d19dd0b2ae41a696e00cbc50864d33ae08d0877",
+    "Source": "Yahoo",
+    "Sentiment": "neutral",
+    "EventType": "other"
+  },
+  {
+    "Datetime": "2025-10-16 07:52:01 UTC",
+    "Headline": "Billionaire\u00a0Paul Tudor Jones Thinks Massive Rally is Coming Ahead of Potential Downturn \u2013 Here\u2019s His Top AI Pick",
+    "Summary": "We recently published 10 Trending Stocks to Watch As AI Bubble Warnings Heat Up. Apple Inc (NASDAQ:AAPL) is one of the trending stocks. Billionaire Paul Tudor Jones recently warned that \u201cingredients\u201d are in place for a massive stock rally before a potential downturn amid rising speculative behavior in the markets. The billionaire said investors should position themselves [\u2026]",
+    "URL": "https://finnhub.io/api/news?id=ff7b04cbbb71998979e63cc08aaf29c6dbc9deea254187e70c05aca8fad4ac2c",
+    "Source": "Yahoo",
+    "Sentiment": "neutral",
+    "EventType": "market_trend"
+  },
+  {
+    "Datetime": "2025-10-16 07:06:33 UTC",
+    "Headline": "AI boom delivers record net profit for Taiwan's TSMC",
+    "Summary": "Taiwanese tech titan TSMC reported Thursday a record net profit for the third quarter on skyrocketing demand for microchips used to power iPhones and artificial intelligence.TSMC said net profit for the three months to September soared 39.1 percent from a year ago to NT$452.3 billion (US$14.7 billion), a quarterly record.",
+    "URL": "https://finnhub.io/api/news?id=05f2fd5a517b8c0d1d22be39236989d5261a0d9358e48fa23827cc2563713815",
+    "Source": "Yahoo",
+    "Sentiment": "neutral",
+    "EventType": "other"
+  },
+  {
+    "Datetime": "2025-10-16 06:22:21 UTC",
+    "Headline": "Taiwanese chipmaker TSMC sees nearly 40% jump in its net profit thanks to the AI boom",
+    "Summary": "Taiwan\u2019s leading computer chip maker, TSMC, said Thursday that its net profit surged nearly 40% in the last quarter, boosted by the surge in use of artificial intelligence.  Taiwan Semiconductor Manufacturing Corp. is the world\u2019s biggest semiconductor manufacturer.  It reported a net profit of a record 452.3 billion new Taiwan dollars ($15 billion) in the July-September quarter, higher than analysts\u2019 forecasts.",
+    "URL": "https://finnhub.io/api/news?id=e496feb28c9f035a5acf6e38e064b291e365581abca313fb347c3174f95a26ea",
+    "Source": "Yahoo",
+    "Sentiment": "neutral",
+    "EventType": "other"
+  },
+  {
+    "Datetime": "2025-10-16 06:04:00 UTC",
+    "Headline": "From Magnificent To Stretched: Rethink U.S. Equity Allocations",
+    "Summary": "A small number of companies dominate US equity market size and earnings, making investors reliant on the fortunes of a select few.",
+    "URL": "https://finnhub.io/api/news?id=bcb384d44917522deadb7813a6f0f1fd74ab1db745201614fd17e6bcd5b5a001",
+    "Source": "SeekingAlpha",
+    "Sentiment": "neutral",
+    "EventType": "other"
+  },
+  {
+    "Datetime": "2025-10-16 05:40:27 UTC",
+    "Headline": "TSMC Q3 profit jumps 39.1% to record, beats expectations",
+    "Summary": "TSMC, the world's largest contract chipmaker, posted a 39.1% jump in third-quarter net profit on Thursday,",
+    "URL": "https://finnhub.io/api/news?id=8085e074ae42c2429ed2c1d74eb3c2b0f4724176792fe29c2b52ed8ffd5f6827",
+    "Source": "Yahoo",
+    "Sentiment": "positive",
+    "EventType": "earnings"
+  },
+  {
+    "Datetime": "2025-10-16 05:30:00 UTC",
+    "Headline": "The S&P 500\u2019s Yield Is Weak. Consider These 3 Funds and 3 Stocks Instead.",
+    "Summary": "Many investors have significant exposure to the S&P 500 index and its paltry yield. Here\u2019s how to bulk up the income portion of your portfolio.",
+    "URL": "https://finnhub.io/api/news?id=251f526d6f4b2efaf1492b1c5fa2350406ce545fc2e578eac5fd522b4d006054",
+    "Source": "Yahoo",
+    "Sentiment": "positive",
+    "EventType": "market_trend"
+  },
+  {
+    "Datetime": "2025-10-16 02:32:44 UTC",
+    "Headline": "TSMC ADR Premium Tops Two-Decade High as Global Buyers Pile In",
+    "Summary": "Its American depositary receipts are trading at the highest premium to its Taipei shares since 2002, on a 50-day moving average basis.  The ADRs have surged 54% this year, outpacing the 38% gain in the Taiwan listing, as global traders boost bullish bets.  \u201cWe are positive on TSMC\u2019s outlook and expect it to raise its full-year 2025 sales growth outlook,\u201d said Rex Chen, a Taipei-based fund manager at Capital Investment Trust Corp.",
+    "URL": "https://finnhub.io/api/news?id=32b4b72fe88e695ed8b216c0c622bc0bd1b5eec92fb60995fa45e867947a9625",
+    "Source": "Yahoo",
+    "Sentiment": "neutral",
+    "EventType": "other"
+  },
+  {
+    "Datetime": "2025-10-16 01:37:00 UTC",
+    "Headline": "Apple CEO sends signal on crucial China moment",
+    "Summary": "In many ways, Apple\u2019s (AAPL) 2025 story has been one of quiet resilience. Despite sluggish global smartphone demand, the world\u2019s most valuable business was able to find new ways to bend the curve. Its success had everything to do with supply-chain recalibrations, a steady premium mix, along ...",
+    "URL": "https://finnhub.io/api/news?id=d78a84f269852743a2f15bb996d127e649138ca5c7ac30059578da9a553e8e07",
+    "Source": "Yahoo",
+    "Sentiment": "positive",
+    "EventType": "market_trend"
+  },
+  {
+    "Datetime": "2025-10-16 01:34:17 UTC",
+    "Headline": "Trump hosts glitzy dinner for wealthy donors to new White House ballroom",
+    "Summary": "President Donald Trump on Wednesday welcomed nearly 130 deep-pocketed donors, allies and representatives of major companies for a dinner at the White House to reward them for their pledged contributions to a massive new ballroom.  The ballroom, whose price tag is now estimated at $250 million, is the most significant renovation that Trump, a former real estate mogul, is undertaking during his second term at the White House.  All four sides of the ballroom \u2014 which Trump said will be large and grand enough to hold even a presidential inauguration -- will be made of bulletproof glass, with its color, window shape and molding keeping in character with the White House.",
+    "URL": "https://finnhub.io/api/news?id=5524bd8d99fc308f77a6926a836e9b5dd73805784cfc88c3f3cdb4f63504b8d0",
+    "Source": "Yahoo",
+    "Sentiment": "neutral",
+    "EventType": "other"
+  },
+  {
+    "Datetime": "2025-10-16 01:03:00 UTC",
+    "Headline": "Omdia: Mainland China\u2019s Smartphone Market Declined 3% in 3Q25 as Vivo Regained Top Position Amid Intensifying Competition",
+    "Summary": "LONDON, October 16, 2025--According to Omdia\u2019s latest research, mainland China\u2019s smartphone market declined 3% year on year in 3Q25. The market remains in an adjustment phase, while competition among leading vendors has intensified, with shipment gaps between the top players continuing to narrow. vivo regained the top spot with shipments of 11.8 million units, accounting for an 18% market share. Huawei followed closely in second place with 10.5 million units and a 16% share. Apple maintained its",
+    "URL": "https://finnhub.io/api/news?id=77489e51aa8261fc6e9ed72d0a4f190666e8011039da0e4c54799151d6bbdb9d",
+    "Source": "Yahoo",
+    "Sentiment": "neutral",
+    "EventType": "other"
+  }
+]
